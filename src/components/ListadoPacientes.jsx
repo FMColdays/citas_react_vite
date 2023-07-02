@@ -1,8 +1,6 @@
 import Paciente from "./paciente"
-import { useEffect, useState } from 'react'
 
 const ListadoPacientes = ({ pacientes, setPaciente, eliminar }) => {
-
 
   return (
     <div className="formularios overflow">
