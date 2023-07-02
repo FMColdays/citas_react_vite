@@ -1,6 +1,7 @@
-import Paciente from "./paciente"
+import Paciente from "./Paciente"
 
 const ListadoPacientes = ({ pacientes, setPaciente, eliminar }) => {
+
 
   return (
     <div className="formularios overflow">
